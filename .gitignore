@@ -1,0 +1,14 @@
+node_modules/
+.gradle
+local.properties
+*.keystore
+!debug.keystore
+.bundle
+__pycache__
+.DS_Store
+Thumbs.db
+*.log
+android/app/build/
+ios/build/
+ios/Pods/
+.env
